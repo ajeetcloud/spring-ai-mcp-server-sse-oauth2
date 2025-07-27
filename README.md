@@ -1,1 +1,0 @@
-# spring-ai-mcp-server-sse-oauth2
